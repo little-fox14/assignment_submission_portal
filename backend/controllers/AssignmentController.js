@@ -63,4 +63,4 @@ const uploadAssignment = async (req, res) => {
   }
 };
 
-module.exports = uploadAssignment;
+module.exports = {uploadAssignment};
